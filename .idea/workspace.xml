@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32a8de13-d1ed-411b-8a78-f2054758ed2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oNghsX8KSR0XEH4Ko6bMuwrz8z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Kotlin.ClientMainKt">
+    <configuration name="ClientMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="first_project.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClientMainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="first_project.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ServerMainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ClientMainKt" />
+        <item itemvalue="Kotlin.ServerMainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a8de13-d1ed-411b-8a78-f2054758ed2d" name="Default Changelist" comment="" />
+      <created>1613132584183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613132584183</updated>
+      <workItem from="1613132616470" duration="194000" />
+      <workItem from="1613132854250" duration="2764000" />
+      <workItem from="1613220384938" duration="1552000" />
+      <workItem from="1613418447870" duration="2243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="92" key="#Project_Structure" timestamp="1613133198651">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="92" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1613133198651" />
+    <state x="548" y="188" key="FileChooserDialogImpl" timestamp="1613132804931">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1613132804931" />
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom" timestamp="1613420689618">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1613420689618" />
+    <state width="1493" height="331" key="GridCell.Tab.0.center" timestamp="1613420689618">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1613420689618" />
+    <state width="1493" height="331" key="GridCell.Tab.0.left" timestamp="1613420689618">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1613420689618" />
+    <state width="1493" height="331" key="GridCell.Tab.0.right" timestamp="1613420689618">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1613420689618" />
+    <state x="277" y="76" key="SettingsEditor" timestamp="1613133011559">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1613133011559" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1613418509421">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1613418509421" />
+  </component>
+</project>
